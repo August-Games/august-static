@@ -64,7 +64,7 @@ param=4=1
 param=3=true
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
 param=6=0
-param=17=https://github.com/August-Games/august-static/raw/main/worldlist.ws
+param=17=https://github.com/August-Games/august-static/raw/main/worldlist-beta.ws
 param=11=https://auth.jagex.com/
 param=25=237
 param=8=true
