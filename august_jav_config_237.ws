@@ -1,6 +1,6 @@
 title=August
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://dedi.august-rsps.com/
+codebase=http://w1.august.games/
 cachedir=.augustrsps
 storebase=0
 initial_jar=gamepack_8836897.jar
