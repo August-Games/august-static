@@ -1,0 +1,10 @@
+initial_jar=gamepack.jar
+initial_class=client.class
+param=3=true
+param=4=1
+param=6=0
+param=7=0
+param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
+param=10=5
+param=21=0
+param=25=241
